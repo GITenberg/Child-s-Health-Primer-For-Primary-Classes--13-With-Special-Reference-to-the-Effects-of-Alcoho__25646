@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1874'
     url: http://www.gutenberg.org/2009/agents/1874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25646#Child-s-Health-Primer-For-Primary-Classes--13-With-Special-Reference-to-the-Effects-of-Alcoho_
 gutenberg_bookshelf: Physiology
 gutenberg_issued: '2008-05-30'
 gutenberg_type: Text
